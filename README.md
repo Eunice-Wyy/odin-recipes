@@ -8,3 +8,5 @@ Recipes 101
 - ordered and unordered list
 - finding free photos to put and credit when needed
 
+## What's new
+[04122025] Start **Odin Recipes** with skeleton HTML boilerplate
